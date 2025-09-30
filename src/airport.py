@@ -11,15 +11,8 @@ from shapely import Point, Polygon, points
 
 import folium
 from folium.plugins import AntPath
-from folium.plugins import TimestampedGeoJson
-from folium.features import CustomIcon
 
 import pydeck as pdk
-
-
-import base64
-from PIL import Image
-import io
 
 import util
 from aircraft import Aircraft
