@@ -22,14 +22,11 @@ from .node import Node
 from .link import Link
 from .LambertConformal import LambertXY, LambertLatLon
 
-
-
-
 # from aircraft import Aircraft
 # from LambertConformal import COORD_STANDARD
 
 airport_path = {
-    'RKSI': "./RKSI22_NodeLink_old.csv"
+    'RKSI': "../../data/RKSI22_NodeLink_old.csv"
     # 'RKSI': "./RKSI22_NodeLink_new.csv"
 }
 
