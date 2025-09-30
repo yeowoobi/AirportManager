@@ -1,5 +1,7 @@
 # FFOT Airport Manager
 
+[//]: # (<h4 style="text-align: right"> by Minkyun Park </h4>)
+
 [//]: # (A brief description of your project.)
 
 ---
