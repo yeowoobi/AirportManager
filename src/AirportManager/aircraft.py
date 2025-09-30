@@ -7,7 +7,7 @@ from collections import OrderedDict
 
 import folium
 
-from LambertConformal import LambertXY_series, LambertLatLon_series, COORD_STANDARD
+from .LambertConformal import LambertXY_series, LambertLatLon_series, COORD_STANDARD
 
 
 class Aircraft:

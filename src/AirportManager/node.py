@@ -1,6 +1,6 @@
 from shapely import Point
 
-from LambertConformal import LambertXY, LambertLatLon
+from .LambertConformal import LambertXY, LambertLatLon
 
 
 class Node:

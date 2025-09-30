@@ -1,9 +1,8 @@
 import numpy as np
-
-from node import Node
 from shapely import Point, Polygon
 
-from LambertConformal import LambertXY, LambertLatLon, COORD_STANDARD
+from .node import Node
+from .LambertConformal import LambertXY, LambertLatLon, COORD_STANDARD
 
 
 class Link:

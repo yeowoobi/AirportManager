@@ -13,14 +13,15 @@ import folium
 from folium.plugins import AntPath
 
 import pydeck as pdk
-
-import util
-from aircraft import Aircraft
-from node import Node
-from link import Link
-from LambertConformal import LambertXY, LambertLatLon
-
 from seaborn import color_palette
+
+
+from . import util
+from .aircraft import Aircraft
+from .node import Node
+from .link import Link
+from .LambertConformal import LambertXY, LambertLatLon
+
 
 
 

@@ -6,10 +6,11 @@ import json
 import matplotlib.pyplot as plt
 import matplotlib.colors as mcolors
 import pandas as pd
-
-from aircraft import Aircraft
-
 from datetime import datetime, timezone, timedelta
+
+
+from .aircraft import Aircraft
+
 
 from tqdm import tqdm
 
