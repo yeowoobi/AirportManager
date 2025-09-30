@@ -6,6 +6,8 @@
 
 ---
 
+![RKSI_Node_Link.png](Img/RKSI_Node_Link.png)
+
 ## Requirements
 
 * Python 3.12
