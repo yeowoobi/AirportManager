@@ -53,8 +53,9 @@
 
 ---
 
-## ▶️ How to Run
+## ▶️ How to Import
 
 Run the main script to start the application:
-```bash
-python your_main_script.py
+```python
+from AirportManager import *
+```
