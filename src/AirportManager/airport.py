@@ -983,7 +983,6 @@ class Airport:
                 else:
                     return
 
-
             elif gate_ramp_count == 1:      # for starting at Gate-Ramp Node
                 start_idx = order.index(gate_ramp)
 
