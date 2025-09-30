@@ -26,7 +26,7 @@ from .LambertConformal import LambertXY, LambertLatLon
 # from LambertConformal import COORD_STANDARD
 
 airport_path = {
-    'RKSI': "../../data/RKSI22_NodeLink_old.csv"
+    'RKSI': "../data/RKSI22_NodeLink_old.csv"
     # 'RKSI': "./RKSI22_NodeLink_new.csv"
 }
 
