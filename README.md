@@ -45,7 +45,8 @@
 
 2.  **Install the required packages:**
     ```bash
-    pip install -r requirements.txt
+    pip install -e ./AirportManager
+    pip install -r ./AirportManager/requirements.txt
     ```
 
 ---
